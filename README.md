@@ -28,9 +28,8 @@ pip install -r requirements.txt
 ```
 Leetcode-Question-Scrapping/
 │
-├── leetcode_scraper.py       # Main script to fetch Leetcode question data
+├── script.py       # Main script to fetch Leetcode question data
 ├── requirements.txt          # Python dependencies
-├── leetcode_questions.csv    # Output file with scraped data (generated after run)
 └── README.md                 # Documentation
 ```
 
@@ -53,5 +52,3 @@ pip install -r requirements.txt
 ```bash
 python leetcode_scraper.py
 ```
-
-The script will generate a `leetcode_questions.csv` file with all the data.
