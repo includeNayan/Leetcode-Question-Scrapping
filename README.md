@@ -1,11 +1,11 @@
 # 📘 Leetcode Question Scraper
 
-This repository contains a Python script to **scrape Leetcode questions** and store relevant information such as title, difficulty, and URL into a CSV file.
+This repository contains a Python script to **scrape Leetcode questions** and store relevant information such as title, difficulty, and URL into a JSON format file.
 
 ## 🚀 Features
 
 - Scrapes **all public Leetcode questions**
-- Saves data in a structured **CSV file**
+- Saves data in a structured **JSON file**
 - Captures the following fields:
   - Question title
   - Difficulty (Easy / Medium / Hard)
