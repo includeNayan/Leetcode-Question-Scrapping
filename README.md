@@ -18,11 +18,9 @@ This repository contains a Python script to **scrape Leetcode questions** and st
 
 ## 📂 File Structure
 Leetcode-Question-Scrapping/
-│
-├── script.py # Main script to fetch Leetcode question data
-├── data/ # JSON files of scraped problems
-└── README.md # Documentation
-
+├── script.py        # Main script to fetch Leetcode question data
+├── data/            # JSON files of scraped problems
+└── README.md        # Documentation
 ---
 ### 3. Run the scraper:
 ```bash
