@@ -18,10 +18,8 @@ This repository contains a Python script to **scrape Leetcode questions** and st
 
 ## 🛠 Requirements
 
-Make sure you have Python installed (preferably `3.8+`), then install the required packages:
+Make sure you have Python installed (preferably `3.8+`).
 
-```bash
-pip install -r requirements.txt
 ```
 
 ## 📂 File Structure
@@ -30,7 +28,7 @@ pip install -r requirements.txt
 Leetcode-Question-Scrapping/
 │
 ├── script.py       # Main script to fetch Leetcode question data
-├── requirements.txt          # Python dependencies
+├── data            # json files of scraped problems
 └── README.md                 # Documentation
 ```
 
@@ -42,11 +40,6 @@ Leetcode-Question-Scrapping/
 ```bash
 git clone https://github.com/includeNayan/Leetcode-Question-Scrapping.git
 cd Leetcode-Question-Scrapping
-```
-
-### 2. Install dependencies:
-```bash
-pip install -r requirements.txt
 ```
 
 ### 3. Run the scraper:
