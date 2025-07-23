@@ -1,0 +1,32 @@
+{
+  "questionId": "96",
+  "title": "Unique Binary Search Trees",
+  "titleSlug": "unique-binary-search-trees",
+  "content": "Given an integer n, return the number of structurally unique BST's (binary search trees) which has exactly n nodes of unique values from 1 to n.   Example 1: Input: n = 3 Output: 5 Example 2: Input: n = 1 Output: 1   Constraints: 1 <= n <= 19",
+  "difficulty": "Medium",
+  "likes": 10743,
+  "dislikes": 433,
+  "exampleTestcases": "3 1",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ]
+}
